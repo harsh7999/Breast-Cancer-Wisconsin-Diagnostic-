@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>KNN and Logistic Regression Models</title>
-  </head>
+    
   <body>
     <h1>KNN and Logistic Regression Models</h1>
     <p>This repository contains the implementation of KNN and Logistic Regression models in Python. The purpose of this project is to demonstrate the use of these two machine learning algorithms for classification tasks.</p>
